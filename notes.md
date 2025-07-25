@@ -47,3 +47,6 @@ For interview tool. Use google interview warmup!
 
 Continue learning with HP LIFE and the following resources.
 https://www.life-global.org/trainee/courses/391/lessons/983/tasks/1604/content
+
+
+<img width="1383" height="828" alt="image" src="https://github.com/user-attachments/assets/ae38346e-2591-4f88-b1fa-cd10ede398c0" />
